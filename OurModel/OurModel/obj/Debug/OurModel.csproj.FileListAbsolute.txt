@@ -1,0 +1,10 @@
+c:\users\евгений\documents\visual studio 2015\Projects\OurModel\OurModel\bin\Debug\OurModel.dll
+c:\users\евгений\documents\visual studio 2015\Projects\OurModel\OurModel\bin\Debug\OurModel.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.dll
+c:\users\евгений\documents\visual studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.csprojResolveAssemblyReference.cache
+C:\Users\дехр\Documents\Visual Studio 2015\Projects\OurModel\OurModel\bin\Debug\OurModel.dll
+C:\Users\дехр\Documents\Visual Studio 2015\Projects\OurModel\OurModel\bin\Debug\OurModel.pdb
+C:\Users\дехр\Documents\Visual Studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.csprojResolveAssemblyReference.cache
+C:\Users\дехр\Documents\Visual Studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.dll
+C:\Users\дехр\Documents\Visual Studio 2015\Projects\OurModel\OurModel\obj\Debug\OurModel.pdb
